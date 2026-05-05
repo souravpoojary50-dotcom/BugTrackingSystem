@@ -62,7 +62,7 @@ BugTrackingSystem/
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/bug-tracking-system.git
+git clone https://github.com/souravpoojary50-dotcom/BugTrackingSystem.git
 cd bug-tracking-system
 
 2️⃣ Setup MySQL Database
@@ -142,7 +142,7 @@ Bug added!
 
 Your Name
 
----
+Sowrav
 
 ⭐ Conclusion
 
